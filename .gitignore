@@ -29,3 +29,6 @@ Thumbs.db
 # Proteus
 *.pdsbak
 *.workspace
+
+# Env file
+env.cpp
